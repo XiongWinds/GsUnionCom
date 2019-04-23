@@ -1,0 +1,70 @@
+<resources>
+
+    <!-- common-->
+    <string name="NameEnsure">确定</string>
+    <string name="fontbigsize">12dp</string>
+    <string name="fontmidsize">18dp</string>
+    <string name="fontsmallsize">12dp</string>
+
+
+    <!--mainActivity-->
+    <string name="app_name">甘肃联通</string>
+    <string name="NameInput">请输入您的称号</string>
+    <string name="oneHundred">100元</string>
+    <string name="twoHundred">200元</string>
+    <string name="threeHundred">300元</string>
+    <string name="fifty">50元</string>
+    <string name="ten">10元</string>
+    <string name="otherFee">其他金额</string>
+    <string name="charge">充值</string>
+    <string name="imageTextName">imageTextName</string>
+
+    <!--DisplayMessageActivity-->
+    <string name="chargeSuccessAlert">缴费成功！</string>
+
+
+
+    <!--ChargeOtherFee-->
+    <string name="inputOtherFee">请输入其他金额</string>
+
+
+
+    <!--mainDisplayString-->
+    <string name="searchtext">请输入搜索内容</string>
+    <string name="balanceleft">话费余额</string>
+    <string name="voiceleft">剩余语音</string>
+    <string name="score">可用积分</string>
+    <string name="creditscore">沃信用分</string>
+
+    <string name="balanceleftvalue">156.8元</string>
+    <string name="voiceleftvalue">123分钟</string>
+    <string name="scorevalue">1400元</string>
+    <string name="creditscorevalue">156元</string>
+
+    <string name="chargeillustarte">话费充值</string>
+    <string name="opencustomerillustrate">业务办理</string>
+    <string name="convertscoreillustarte">积分商城</string>
+    <string name="walletillustrate">沃钱包</string>
+
+    <string name="worecommend">沃推荐</string>
+    <string name="giftcoming">|  好礼来袭</string>
+
+
+    <string name="feepolicy">资费专区</string>
+    <string name="chargefee">缴费充值</string>
+    <string name="roam">出境漫游</string>
+    <string name="service">客户服务</string>
+    <string name="floweasy">流量放心用</string>
+    <string name="convertcard">兑换充值卡</string>
+    <string name="hisbill">历史账单</string>
+    <string name="elcinvoice">电子发票</string>
+    <string name="scorequery">积分查询</string>
+
+
+
+    <string name="hometag">首页</string>
+    <string name="servicetag">服务</string>
+    <string name="discoverytag">发现</string>
+    <string name="minetag">我的</string>
+
+</resources>
